@@ -23,5 +23,5 @@
      <a href = "mailto:laurawwarnava@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/laura-warnava-820b451a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-![Snake animation](https://github.com/laurawarnava/laurawarnava/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/laurawarnava/blob/output/github-contribution-grid-snake.svg)
   </div>
