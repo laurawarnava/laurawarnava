@@ -1,9 +1,5 @@
 ### Olá! Eu sou a Laura Warnava
 
-
-- 🔭 Atualmente trabalho com testes de software
-- 🌱 Cursando Análise e Desenvolviemnto de Sistemas
-
 <div align="center">
   <a href="https://github.com/laurawarnava">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurawarnava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
