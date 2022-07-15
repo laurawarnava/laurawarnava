@@ -1,4 +1,3 @@
-### Olá! Eu sou a Laura Warnava
 
 <div align="center">
   <a href="https://github.com/laurawarnava">
